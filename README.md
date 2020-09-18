@@ -4,4 +4,4 @@ This is a notebook where I perform a Multiclass Classification task using Convol
 
 This work was motivated by the [g2net 2020 Hackathon](https://indico.ego-gw.it/event/46/overview) .
 
-<img src="multi-class_earthquake.jpg" alt="drawing" height="400" width="600"/>
+<img src="multi-class_earthquake.jpg" alt="drawing" />
