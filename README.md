@@ -5,3 +5,9 @@ This repository implements a Convolutional Neural Network (CNN) for multiclass c
 This work was motivated by the [g2net 2020 Hackathon](https://indico.ego-gw.it/event/46/overview) .
 
 <img src="deepwiki.png" alt="drawing" />
+
+_____________________________________
+
+Detailed description of the project can be seen using Deepwiki:
+
+https://deepwiki.com/vmmunoza/CNN-for-MulticlassClassification 
